@@ -1,0 +1,78 @@
+.header{
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    background-color: palevioletred;
+    height: 600px;
+    width: 100%;
+}
+
+.content{
+   position: absolute;
+   margin-bottom: 100px;
+   list-style: none;
+   display: flex;
+   justify-content: space-between;
+   gap: 45px;
+   color: antiquewhite;
+   padding-left: 670px;
+   margin-top: 50px;
+   font-size: larger;
+}
+
+.search{
+    position: absolute;
+    padding-left: 1082px;
+    font-size: x-small;
+    margin-bottom: 50px;
+   color: black;
+}
+
+.hire{
+    position: absolute;
+    margin-top: 50px;
+    padding-left: 1270px;
+}
+
+.rr{
+    position: absolute;
+    color: antiquewhite;
+    margin-top: 220px;
+    padding-left: 50px;
+}
+
+.mm{
+    position: absolute;
+    color: black;
+    font-size: xx-small;
+    margin-top: 310px;
+    padding-left: 50px;
+}
+
+.ll{
+    position: absolute;
+    margin-top: 500px;
+    padding-left: 140px;
+}
+
+.image{
+    position: absolute;
+    padding-left: 710px;
+    margin-top: 70px;
+}
+
+.tt{
+    position: absolute;
+    background: black;
+    width: 258px;
+    height: 2px;
+    margin-left: 1083px;
+    margin-top:32px;    
+}
+
+.yy{
+    position: absolute;
+    color: antiquewhite;
+    margin-left: 1325px;
+    margin-top: 15px;
+}
